@@ -7,3 +7,4 @@
 
 ## Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
+* [Answering early questions about Fabric's place in your analytics stack](https://www.linkedin.com/pulse/answering-early-questions-fabrics-place-your-stack-luke-fangman) - Luke Fangman
