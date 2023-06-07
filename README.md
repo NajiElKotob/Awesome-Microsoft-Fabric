@@ -13,5 +13,12 @@
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
 * [Answering early questions about Fabric's place in your analytics stack](https://www.linkedin.com/pulse/answering-early-questions-fabrics-place-your-stack-luke-fangman) - Luke Fangman
 
-## Tools
+-----
+
+## OneLake
+### Articles
+* [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
+
+
+### Tools
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
