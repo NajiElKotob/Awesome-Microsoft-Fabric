@@ -16,6 +16,7 @@
 * [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
 * [Answering early questions about Fabric's place in your analytics stack](https://www.linkedin.com/pulse/answering-early-questions-fabrics-place-your-stack-luke-fangman) - Luke Fangman
+* [SQL and the Microsoft Fabric (Presentation)](https://aka.ms/sqlfabricdemo) - OneDrive
 
 -----
 
