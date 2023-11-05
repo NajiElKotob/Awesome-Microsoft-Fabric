@@ -2,6 +2,7 @@
 
 ## Docs
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
+* [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 
 ## YouTube 📺
 * [Microsoft Fabric Launch Digital Event (Day 1) ~3.2 hours](https://youtu.be/5jlP0wdEsls)
