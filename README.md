@@ -28,6 +28,9 @@
 -----
 
 ## Data Activator
+### Docs
+* [Data Activator documentation](https://learn.microsoft.com/en-us/fabric/data-activator/)
+  
 ### Videos 📺
 * [Automate data-driven actions | Data Activator in Microsoft Fabric](https://www.youtube.com/watch?v=qrCmTCWuluk) - Microsoft Mechanics
 
