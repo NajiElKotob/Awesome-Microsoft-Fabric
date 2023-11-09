@@ -1,10 +1,13 @@
 # Awesome Microsoft Fabric
 
-## Docs
+{Awesome Works in Progress}
+
+## Fabric
+### Docs
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 
-## YouTube 📺
+### YouTube 📺
 * [Microsoft Fabric Launch Digital Event (Day 1) ~3.2 hours](https://youtu.be/5jlP0wdEsls)
 * [Microsoft Fabric Launch Digital Event (Day 2) ~3 hours](https://youtu.be/wdDx0-jvl7w)
 * [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4) - Guy in a Cube
@@ -13,16 +16,17 @@
 * [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
 * [Understanding Microsoft Fabric Licensing and Cost (Public Preview)](https://youtu.be/6AAeV3bSMso) - Guy in a Cube
 
-## Articles 📰
+### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
 * [Answering early questions about Fabric's place in your analytics stack](https://www.linkedin.com/pulse/answering-early-questions-fabrics-place-your-stack-luke-fangman) - Luke Fangman
 * [SQL and the Microsoft Fabric (Presentation)](https://aka.ms/sqlfabricdemo) - OneDrive
 
-## Tutorials
+### Tutorials
 * [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
 * [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
 
 -----
+
 ## Data Activator
 ### Videos 📺
 * [Automate data-driven actions | Data Activator in Microsoft Fabric](https://www.youtube.com/watch?v=qrCmTCWuluk) - Microsoft Mechanics
