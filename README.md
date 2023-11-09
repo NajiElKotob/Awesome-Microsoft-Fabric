@@ -23,6 +23,11 @@
 * [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
 
 -----
+## Data Activator
+### Videos 📺
+* [Automate data-driven actions | Data Activator in Microsoft Fabric](https://www.youtube.com/watch?v=qrCmTCWuluk) - Microsoft Mechanics
+
+-----
 
 ## OneLake
 ### Articles
