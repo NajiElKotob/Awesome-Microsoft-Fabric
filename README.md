@@ -20,6 +20,7 @@
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
 * [Answering early questions about Fabric's place in your analytics stack](https://www.linkedin.com/pulse/answering-early-questions-fabrics-place-your-stack-luke-fangman) - Luke Fangman
 * [SQL and the Microsoft Fabric (Presentation)](https://aka.ms/sqlfabricdemo) - OneDrive
+* Fabric is the first truly unified analytics solution based on one copy of data. Using open-standard formats and end-to-end service offerings, Fabric enables customers to avoid vendor lock-in, and prevent data-fragmentation complexity. Fabric is transforming how analytics projects are delivered. [Learn more](https://powerbi.microsoft.com/en-us/blog/datasets-renamed-to-semantic-models/) - Christian Wade
 
 ### Tutorials
 * [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
