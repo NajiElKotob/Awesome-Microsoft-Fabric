@@ -8,11 +8,11 @@
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 
 ### YouTube 📺
-* [Microsoft Fabric Launch Digital Event (Day 1) ~3.2 hours](https://youtu.be/5jlP0wdEsls)
-* [Microsoft Fabric Launch Digital Event (Day 2) ~3 hours](https://youtu.be/wdDx0-jvl7w)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
   - [Understanding Microsoft Fabric Licensing and Cost (Public Preview)](https://youtu.be/6AAeV3bSMso)
+  - [Microsoft Fabric Launch Digital Event (Day 1) ~3.2 hours](https://youtu.be/5jlP0wdEsls)
+  - [Microsoft Fabric Launch Digital Event (Day 2) ~3 hours](https://youtu.be/wdDx0-jvl7w)
 * KratosBI
   - [Learn Microsoft Fabric with Me! Part 1 ~4 hours](https://www.youtube.com/watch?v=9z4m_Y9m36E)
   - [Introduction to #MicrosoftFabric - Madison Fabric User Group](https://www.youtube.com/watch?v=913cl9BD3iQ)
