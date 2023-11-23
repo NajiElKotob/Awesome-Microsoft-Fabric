@@ -45,6 +45,12 @@
 
 -----
 
+## Power BI
+* [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - A comprehensive GitHub repository, providing free learning resources for Power BI since 2015, including YouTube tutorials, blogs, articles, and guides on DAX, data storytelling, and more.
+
+-----
+
+## Data Activator
 ## OneLake
 ### Articles
 * [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
