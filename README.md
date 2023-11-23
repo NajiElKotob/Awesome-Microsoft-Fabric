@@ -50,6 +50,10 @@
 
 -----
 
+## Synapse Data Engineering
+
+-----
+
 ## Data Activator
 ## OneLake
 ### Articles
