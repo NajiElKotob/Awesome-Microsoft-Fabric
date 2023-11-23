@@ -7,6 +7,9 @@
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 
+### Learn
+* [Microsoft Ignite: Microsoft Fabric](https://learn.microsoft.com/en-us/collections/w2gkhrkzzmym?WT.mc_id=cloudskillschallenge_a68d938a-58b7-403e-89f2-b2305edb7c41)
+
 ### YouTube 📺
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
