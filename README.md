@@ -62,17 +62,18 @@
 
 
 -----
-
-
-
-
 ## Data Activator
+
+-----
 ## OneLake
 ### Articles
 * [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
 * A [data lakehouse](https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake) is a modern data management architecture that combines the cost-efficiency, scale, and flexibility features of a data lake with the data and transaction management capabilities of a data warehouse.
 
-
-
 ### Tools
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
+
+
+-----
+## Misc
+* A synapse is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
