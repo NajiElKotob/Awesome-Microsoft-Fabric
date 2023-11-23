@@ -62,7 +62,7 @@
 
 
 -----
-## Data Activator
+## Data Factory
 
 -----
 ## OneLake
