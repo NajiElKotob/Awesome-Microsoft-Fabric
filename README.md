@@ -52,7 +52,17 @@
 
 ## Synapse Data Engineering
 
+
+
 -----
+
+## Synapse Data Warehouse
+
+
+-----
+
+
+
 
 ## Data Activator
 ## OneLake
