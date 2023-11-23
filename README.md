@@ -73,6 +73,9 @@
 ### Tools
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
 
+-----
+## References
+* [Delta Lake](https://delta.io/) - delta.io
 
 -----
 ## Terms and more
