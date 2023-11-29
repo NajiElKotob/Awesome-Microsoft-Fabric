@@ -77,6 +77,7 @@
 -----
 ## References
 * [Delta Lake](https://delta.io/) - delta.io
+* [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
 
 -----
 ## Terms and more
