@@ -65,6 +65,10 @@
 -----
 ## Data Factory
 
+
+-----
+## Microsoft Purview
+
 -----
 ## OneLake
 ### Articles
