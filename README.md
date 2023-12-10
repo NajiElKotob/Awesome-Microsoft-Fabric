@@ -19,11 +19,13 @@
 * KratosBI
   - [Learn Microsoft Fabric with Me! Part 1 ~4 hours](https://www.youtube.com/watch?v=9z4m_Y9m36E)
   - [Introduction to #MicrosoftFabric - Madison Fabric User Group](https://www.youtube.com/watch?v=913cl9BD3iQ)
-* [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
-* [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
 * Microsoft
   - [Microsoft Fabric: Data mirroring and Copilot updates](https://www.youtube.com/watch?v=fz5fBgww0rE) - Microsoft Mechanics
   - [Microsoft Fabric at Microsoft Inspire 2023](https://www.youtube.com/watch?v=C8EZaJtVZoY) ⭐
+* Misc
+  - [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
+  - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
+  - [Microsoft Fabric: Lakehouse vs Warehouse](https://www.youtube.com/watch?v=34sI2e30JUM) - James Serra
 
 ### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
