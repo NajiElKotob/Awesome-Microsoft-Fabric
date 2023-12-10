@@ -23,7 +23,7 @@
 * [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
 * Microsoft
   - [Microsoft Fabric: Data mirroring and Copilot updates](https://www.youtube.com/watch?v=fz5fBgww0rE) - Microsoft Mechanics
-  - [Microsoft Fabric at Microsoft Inspire 2023](https://www.youtube.com/watch?v=C8EZaJtVZoY)
+  - [Microsoft Fabric at Microsoft Inspire 2023](https://www.youtube.com/watch?v=C8EZaJtVZoY) ⭐
 
 ### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
