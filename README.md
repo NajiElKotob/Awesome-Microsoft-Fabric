@@ -27,6 +27,7 @@
   - [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
   - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
   - [Microsoft Fabric: Lakehouse vs Warehouse](https://www.youtube.com/watch?v=34sI2e30JUM) - James Serra
+  - [Centida BI & Analytics](https://www.youtube.com/@CentidaBI)
 
 ### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
