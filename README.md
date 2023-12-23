@@ -57,6 +57,7 @@
 
 -----
 ## Synapse Data Engineering
+* [Introducing Synapse Data Engineering in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-engineering-in-microsoft-fabric/)
 
 -----
 ## Synapse Data Warehouse
