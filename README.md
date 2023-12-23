@@ -61,6 +61,7 @@
 
 -----
 ## Synapse Data Warehouse
+* [Introducing Synapse Data Warehouse in Microsoft Fabric](https://blog.fabric.microsoft.com/en-US/blog/introducing-synapse-data-warehouse-in-microsoft-fabric/)
 
 -----
 ## Synapse Data Science
