@@ -92,6 +92,7 @@
 * [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
 
 ## Exams 
+* [New Fabric certification and Fabric Career Hub](https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/)
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/)
 -----
 ## Terms and more
