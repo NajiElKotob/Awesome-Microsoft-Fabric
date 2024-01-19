@@ -83,6 +83,9 @@
 * [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
 * A [data lakehouse](https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake) is a modern data management architecture that combines the cost-efficiency, scale, and flexibility features of a data lake with the data and transaction management capabilities of a data warehouse.
 
+### Videos
+* [What Is Microsoft OneLake? 📺 ~22min](https://www.youtube.com/watch?v=zGQ8bPfbV_E) - Tamarick Hill's Azure Data Training
+
 ### Tools
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
 
