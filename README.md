@@ -23,6 +23,8 @@
 * Microsoft
   - [Microsoft Fabric: Data mirroring and Copilot updates](https://www.youtube.com/watch?v=fz5fBgww0rE) - Microsoft Mechanics
   - [Microsoft Fabric at Microsoft Inspire 2023](https://www.youtube.com/watch?v=C8EZaJtVZoY) ⭐
+* Microsoft Power BI
+  - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric 📺 ~1.5 hours](https://www.youtube.com/watch?v=LhZRNm5Vjjc)
 * Misc
   - [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
   - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
