@@ -98,9 +98,8 @@
 * [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
 
 ## Exams 
-* [New Fabric certification and Fabric Career Hub](https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/)
-  - [Get Your DP-600 the Smart Way: Microsoft Fabric Career Hub 📺](https://www.youtube.com/watch?v=U3aqC7VQTSw) - Guy in a Cube
-* [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/)
+* [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Fabric%20Exam%20DP-600.md) - Resources and References
+
 -----
 ## Terms and more
 * A **synapse** is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
