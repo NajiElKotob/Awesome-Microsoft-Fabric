@@ -24,6 +24,7 @@
 * Microsoft
   - [Microsoft Fabric: Data mirroring and Copilot updates](https://www.youtube.com/watch?v=fz5fBgww0rE) - Microsoft Mechanics
   - [Microsoft Fabric at Microsoft Inspire 2023](https://www.youtube.com/watch?v=C8EZaJtVZoY) ⭐
+  - [Create, Evaluate, and Score a Churn Prediction Model 📺 ~1 hour](https://www.youtube.com/watch?v=vPffxSR03qw)
 * Microsoft Power BI
   - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric 📺 ~1.5 hours](https://www.youtube.com/watch?v=LhZRNm5Vjjc)
 * Misc
