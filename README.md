@@ -103,3 +103,4 @@
 -----
 ## Terms and more
 * A **synapse** is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
+* [Microsoft Fabric terminology (GitHub)](https://github.com/MicrosoftDocs/fabric-docs/blob/main/docs/get-started/fabric-terminology.md#microsoft-fabric-terminology)
