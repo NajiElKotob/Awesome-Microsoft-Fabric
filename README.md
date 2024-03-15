@@ -109,9 +109,6 @@
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
 
 -----
-## References
-* [Delta Lake](https://delta.io/) - delta.io
-* [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
 
 ## Exams 
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Fabric%20Exam%20DP-600.md) - Resources and References
@@ -120,3 +117,5 @@
 ## Terms and more
 * A **synapse** is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
 * [Microsoft Fabric terminology (GitHub)](https://github.com/MicrosoftDocs/fabric-docs/blob/main/docs/get-started/fabric-terminology.md#microsoft-fabric-terminology)
+* [Delta Lake](https://delta.io/) - delta.io
+* [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
