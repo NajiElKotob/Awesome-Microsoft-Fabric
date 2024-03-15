@@ -40,6 +40,8 @@
   - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
   - [Microsoft Fabric: Lakehouse vs Warehouse](https://www.youtube.com/watch?v=34sI2e30JUM) - James Serra
   - [Centida BI & Analytics](https://www.youtube.com/@CentidaBI)
+* Centida BI & Analytics
+  - [Microsoft Fabric: End-to-End Project ~45min](https://www.youtube.com/watch?v=fRBKcFaItZs)
 
 ### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
