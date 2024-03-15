@@ -71,6 +71,7 @@
 -----
 ## Synapse Data Science
 
+* [An end-to-end Data Science scenario in Microsoft Fabric 📺 ~9min](https://www.youtube.com/watch?v=bQBVNg6gEYw) - Azure Synapse Analytics
 * [Introducing Synapse Data Science in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-science-in-microsoft-fabric/)
 -----
 ## Synapse Real Time Analytics
