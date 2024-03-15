@@ -77,7 +77,7 @@
 
 -----
 ## Data Factory
-
+`Data Factory empowers you with a modern data integration experience to ingest, prepare and transform data from a rich set of data sources (for example, databases, data warehouse, Lakehouse, real-time data, and more).` [Learn more](https://learn.microsoft.com/en-us/fabric/data-factory/data-factory-overview)
 
 -----
 ## Microsoft Purview
