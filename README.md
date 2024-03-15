@@ -84,6 +84,7 @@
 
 -----
 ## Microsoft Purview
+`Microsoft Purview hub is a centralized page in Fabric that helps Fabric administrators and users manage and govern their Fabric data estate. It contains reports that provide insights about sensitive data and item endorsement, and also serves as a gateway to more advanced capabilities in the Microsoft Purview governance and compliance portals such as Data Catalog, Information Protection, Data Loss Prevention, and Audit.` [Learn more](https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub?tabs=admin-view)
 
 -----
 ## OneLake
