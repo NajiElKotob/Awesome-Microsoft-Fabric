@@ -71,6 +71,7 @@
 -----
 ## Synapse Data Science
 
+* [Introducing Synapse Data Science in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-science-in-microsoft-fabric/)
 -----
 ## Synapse Real Time Analytics
 
