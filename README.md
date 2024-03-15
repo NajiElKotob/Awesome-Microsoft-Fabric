@@ -76,7 +76,7 @@
 -----
 
 ## Synapse Real Time Analytics
-
+`Real-Time Analytics reduces complexity and simplifies data integration. Gain quick access to data insights with just seconds of provisioning, automatic data streaming, indexing, and partitioning for any data source or format, and on-demand query generation and visualizations.` [Learn more](https://learn.microsoft.com/en-us/fabric/real-time-analytics/overview)
 
 -----
 ## Data Factory
