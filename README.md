@@ -13,6 +13,13 @@
 ### Learn
 * [Microsoft Ignite: Microsoft Fabric](https://learn.microsoft.com/en-us/collections/w2gkhrkzzmym?WT.mc_id=cloudskillschallenge_a68d938a-58b7-403e-89f2-b2305edb7c41)
 
+### Tutorials
+* [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
+* [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
+
+### Labs
+* [Microsoft Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs)
+
 ### YouTube 📺
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
@@ -40,9 +47,6 @@
 * [SQL and the Microsoft Fabric (Presentation)](https://aka.ms/sqlfabricdemo) - OneDrive
 * Fabric is the first truly unified analytics solution based on one copy of data. Using open-standard formats and end-to-end service offerings, Fabric enables customers to avoid vendor lock-in, and prevent data-fragmentation complexity. Fabric is transforming how analytics projects are delivered. Using open-standard formats and end-to-end service offerings, Fabric enables customers to avoid vendor lock-in, and prevent data-fragmentation complexity. Fabric is transforming how analytics projects are delivered. [Learn more](https://powerbi.microsoft.com/en-us/blog/datasets-renamed-to-semantic-models/) - Christian Wade
 
-### Tutorials
-* [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
-* [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
 
 -----
 
