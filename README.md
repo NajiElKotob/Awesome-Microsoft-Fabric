@@ -107,6 +107,8 @@
 
 ### Tools
 * [Microsoft OneLake file explorer for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=105222)
+* [Delta Analyzer](https://github.com/dax-tips/DeltaAnalyzer) - DAX Tips
+  - [Uncovering OneLake's Secrets with Delta Analyzer in Microsoft Fabric 📺 11min](https://www.youtube.com/watch?v=U0_JPX0q4Es) 
 
 -----
 
