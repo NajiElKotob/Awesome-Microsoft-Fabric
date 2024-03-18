@@ -35,13 +35,14 @@
   - [Create, Evaluate, and Score a Churn Prediction Model 📺 ~1 hour](https://www.youtube.com/watch?v=vPffxSR03qw)
 * Microsoft Power BI
   - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric 📺 ~1.5 hours](https://www.youtube.com/watch?v=LhZRNm5Vjjc)
+* [Tamarick Hill's Azure Data Training](https://www.youtube.com/@DataBar/videos)
+* Centida BI & Analytics
+  - [Microsoft Fabric: End-to-End Project ~45min](https://www.youtube.com/watch?v=fRBKcFaItZs)
 * Misc
   - [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
   - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
   - [Microsoft Fabric: Lakehouse vs Warehouse](https://www.youtube.com/watch?v=34sI2e30JUM) - James Serra
   - [Centida BI & Analytics](https://www.youtube.com/@CentidaBI)
-* Centida BI & Analytics
-  - [Microsoft Fabric: End-to-End Project ~45min](https://www.youtube.com/watch?v=fRBKcFaItZs)
 
 ### Articles 📰
 * [Introducing Microsoft Fabric: Data analytics for the era of AI](https://azure.microsoft.com/en-us/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/) - azure.microsoft.com
