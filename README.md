@@ -70,6 +70,8 @@
 -----
 
 ## Power BI
+`Uncover powerful insights and turn them into impact. Connect to and visualize any data, and seamlessly infuse visuals into the apps you use every day.`
+
 * [Awesome Power BI](https://github.com/NajiElKotob/Awesome-Power-BI) - A comprehensive GitHub repository, providing free learning resources for Power BI since 2015, including YouTube tutorials, blogs, articles, and guides on DAX, data storytelling, and more.
 
 -----
