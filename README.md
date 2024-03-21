@@ -38,6 +38,8 @@
 * [Tamarick Hill's Azure Data Training](https://www.youtube.com/@DataBar/videos)
 * Centida BI & Analytics
   - [Microsoft Fabric: End-to-End Project ~45min](https://www.youtube.com/watch?v=fRBKcFaItZs)
+* Azure Synapse Analytics
+  - [Fabric Data Science Sales Forecasting: Predict sales numbers for product categories at a superstore](https://www.youtube.com/watch?v=YZP5DWdqUYo)
 * Misc
   - [Empower every BI professional to do more with Microsoft Fabric ~30min](https://build.microsoft.com/en-US/sessions/8b23c96e-7c35-463d-88b4-564d23dc14a5) - Zoe Douglas & Christian Wade | Microsoft
   - [Microsoft Fabric Licensing An Ultimate Guide ~18min](https://youtu.be/Gvt8oesGa3E) - RADACAD
