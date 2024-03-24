@@ -12,6 +12,7 @@
 
 ### Learn
 * [Microsoft Ignite: Microsoft Fabric](https://learn.microsoft.com/en-us/collections/w2gkhrkzzmym?WT.mc_id=cloudskillschallenge_a68d938a-58b7-403e-89f2-b2305edb7c41)
+  - [Implement a Lakehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) 
 
 ### Tutorials
 * [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
