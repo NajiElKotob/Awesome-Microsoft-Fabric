@@ -126,6 +126,7 @@
 
 ## Exams 
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Fabric%20Exam%20DP-600.md) - Resources and References
+  - [Exam Cram for DP-600](https://aka.ms/fabricexamcram) -  
 
 ### Applied Skills
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
