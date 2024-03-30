@@ -8,7 +8,8 @@
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
-  - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) 
+  - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
+  - [Accessing Microsoft Fabric for developers, startups and enterprises!](https://aka.ms/upgrade-to-fabric) ⭐ - aka.ms/upgrade-to-fabric
 
 ### Learn
 * [Microsoft Ignite: Microsoft Fabric](https://learn.microsoft.com/en-us/collections/w2gkhrkzzmym?WT.mc_id=cloudskillschallenge_a68d938a-58b7-403e-89f2-b2305edb7c41)
@@ -126,7 +127,7 @@
 
 ## Exams 
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Fabric%20Exam%20DP-600.md) - Resources and References
-  - [Exam Cram for DP-600](https://aka.ms/fabricexamcram) -  
+  - [Exam Cram for DP-600](https://aka.ms/fabricexamcram) - aka.ms/fabricexamcram
 
 ### Applied Skills
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
