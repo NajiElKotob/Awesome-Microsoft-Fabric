@@ -115,6 +115,7 @@
 
 -----
 ## PySpark 
+* [Use Python for Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview) - learn.microsoft.com
 * [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
 
 -----
