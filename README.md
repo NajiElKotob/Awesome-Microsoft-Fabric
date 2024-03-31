@@ -113,6 +113,12 @@
 ## OneLake
 `OneLake is Fabric's lake-centric architecture that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric's OneLake architecture facilitates collaboration between data team members and saves time by eliminating the need to move and copy data between different systems and teams. OneCopy is a key component of OneLake that allows you to read data from a single copy, without moving or duplicating data.`
 
+-----
+## PySpark 
+* [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
+
+-----
+
 ### Articles
 * [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
 * A [data lakehouse](https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake) is a modern data management architecture that combines the cost-efficiency, scale, and flexibility features of a data lake with the data and transaction management capabilities of a data warehouse.
