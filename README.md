@@ -10,6 +10,7 @@
 * [Become a Fabric Analytics Engineer Start your journey](https://aka.ms/fabriccareerhub) - aka.ms/fabriccareerhub
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
   - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
+  - [How to calculate Microsoft Fabric costs](https://www.fourmoo.com/2024/02/09/how-to-calculate-microsoft-fabric-costs/) - fourmoo.com
   - [Accessing Microsoft Fabric for developers, startups and enterprises!](https://aka.ms/upgrade-to-fabric) ⭐ - aka.ms/upgrade-to-fabric
 
 ### Learn
