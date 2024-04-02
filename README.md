@@ -14,7 +14,7 @@
   - [Accessing Microsoft Fabric for developers, startups and enterprises!](https://aka.ms/upgrade-to-fabric) ⭐ - aka.ms/upgrade-to-fabric
 
 ### Learn
-* [Get started with Microsoft Fabric (11 modules)](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+* [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/) (11 modules)
 * [Microsoft Ignite: Microsoft Fabric](https://learn.microsoft.com/en-us/collections/w2gkhrkzzmym?WT.mc_id=cloudskillschallenge_a68d938a-58b7-403e-89f2-b2305edb7c41)
   - [Ingest data with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/ingest-data-with-microsoft-fabric/) 
   - [Implement a Lakehouse with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/) 
