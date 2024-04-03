@@ -116,14 +116,7 @@
 ## OneLake
 `OneLake is Fabric's lake-centric architecture that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric's OneLake architecture facilitates collaboration between data team members and saves time by eliminating the need to move and copy data between different systems and teams. OneCopy is a key component of OneLake that allows you to read data from a single copy, without moving or duplicating data.`
 
------
-## PySpark 
-* [Use Python for Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview) - learn.microsoft.com
-* [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
-* [Let's look at using some PySpark in your first Microsoft Fabric Notebook](https://www.youtube.com/watch?v=K2WdIdfpIic) - Guy in a Cube
 
-
------
 
 ### Articles
 * [OneLake shortcuts](https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts) - learn.microsoft.com
@@ -140,6 +133,13 @@
 
 -----
 
+## PySpark 
+* [Use Python for Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview) - learn.microsoft.com
+* [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
+* [Let's look at using some PySpark in your first Microsoft Fabric Notebook](https://www.youtube.com/watch?v=K2WdIdfpIic) - Guy in a Cube
+
+
+-----
 ## Exams 
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Fabric%20Exam%20DP-600.md) - Resources and References
   - [Exam Cram for DP-600](https://aka.ms/fabricexamcram) - aka.ms/fabricexamcram
