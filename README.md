@@ -152,6 +152,9 @@
 * [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)
   
 -----
+## Icons and Images
+* [All Microsoft Fabric icons for diagramming](https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/) - debruyn.dev (Sam Debruyn)
+
 ## Terms and more
 * A **synapse** is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
 * [Microsoft Fabric terminology (GitHub)](https://github.com/MicrosoftDocs/fabric-docs/blob/main/docs/get-started/fabric-terminology.md#microsoft-fabric-terminology)
