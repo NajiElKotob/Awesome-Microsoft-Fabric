@@ -20,6 +20,7 @@
   - [Get started with lakehouses in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/)
   - [Use Apache Spark in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-work-files-lakehouse/)
   - [Work with Delta Lake tables in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/)
+  - [Use Data Factory pipelines in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/)
 * [Fabric Notes](https://aka.ms/fabricnotes) - aka.ms/fabricnotes | Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric.
 
 ### Tutorials
