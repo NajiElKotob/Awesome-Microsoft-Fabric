@@ -161,3 +161,4 @@
 * [Microsoft Fabric terminology (GitHub)](https://github.com/MicrosoftDocs/fabric-docs/blob/main/docs/get-started/fabric-terminology.md#microsoft-fabric-terminology)
 * [Delta Lake](https://delta.io/) - delta.io
 * [Parquet](https://www.databricks.com/glossary/what-is-parquet) - databricks.com
+* The Azure Blob File System driver or **ABFS**. ABFS is part of Apache Hadoop and is included in many of the commercial distributions of Hadoop. By the ABFS driver, many applications and frameworks can access data in Azure Blob Storage without any code explicitly referencing Data Lake Storage Gen2. [Learn more](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-abfs-driver)
