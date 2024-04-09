@@ -22,6 +22,7 @@
   1. [Work with Delta Lake tables in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/work-delta-lake-tables-fabric/)
   1. [Use Data Factory pipelines in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-data-factory-pipelines-fabric/)
   1. [Ingest Data with Dataflows Gen2 in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/use-dataflow-gen-2-fabric/)
+  1. [Get started with data warehouses in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-warehouse/)
 * [Fabric Notes](https://aka.ms/fabricnotes) - aka.ms/fabricnotes | Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric.
 
 ### Tutorials
