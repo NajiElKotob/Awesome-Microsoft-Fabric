@@ -146,6 +146,8 @@
 * [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
 * [Let's look at using some PySpark in your first Microsoft Fabric Notebook](https://www.youtube.com/watch?v=K2WdIdfpIic) - Guy in a Cube
 
+## Apps
+* [Microsoft Fabric Capacity Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport?exp=ubp8&tab=Overview) - appsource.microsoft.com
 
 -----
 ## Exams 
