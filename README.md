@@ -141,10 +141,14 @@
 
 -----
 
-## PySpark 
+## Notebook
+### PySpark 
 * [Use Python for Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview) - learn.microsoft.com
 * [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
 * [Let's look at using some PySpark in your first Microsoft Fabric Notebook](https://www.youtube.com/watch?v=K2WdIdfpIic) - Guy in a Cube
+
+### Data Wrangler
+* [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
 
 ## Apps
 * [Microsoft Fabric Capacity Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport?exp=ubp8&tab=Overview) - appsource.microsoft.com
