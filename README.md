@@ -4,11 +4,12 @@
 
 `Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and the business to collaborate on data projects.`
 ## Fabric
-### Docs
+### Microsoft Fabric
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap) - aka.ms/FabricRoadmap
 * [Become a Fabric Analytics Engineer Start your journey](https://aka.ms/fabriccareerhub) - aka.ms/FabricCareerHub
+* [Featured Partners](https://aka.ms/FabricFeaturedPartners) - aka.ms/FabricFeaturedPartners
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
   - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
   - [How to calculate Microsoft Fabric costs](https://www.fourmoo.com/2024/02/09/how-to-calculate-microsoft-fabric-costs/) - fourmoo.com
