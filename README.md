@@ -151,6 +151,8 @@
 ### Data Wrangler
 * [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
 
+-----
+
 ## Apps
 * [Microsoft Fabric Capacity Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport?exp=ubp8&tab=Overview) - appsource.microsoft.com
 
