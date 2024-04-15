@@ -7,6 +7,7 @@
 ### Docs
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
+* [Fabric Roadmap](https://aka.ms/FabricRoadmap) - aka.ms/FabricRoadmap
 * [Become a Fabric Analytics Engineer Start your journey](https://aka.ms/fabriccareerhub) - aka.ms/fabriccareerhub
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
   - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
