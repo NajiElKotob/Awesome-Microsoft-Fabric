@@ -37,7 +37,8 @@
 
 ### YouTube 📺
 * Microsoft Fabric
-  - [Fabric](https://www.youtube.com/@MicrosoftFabric) 
+  - [Fabric](https://www.youtube.com/@MicrosoftFabric)
+  - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
   - [Understanding Microsoft Fabric Licensing and Cost (Public Preview)](https://youtu.be/6AAeV3bSMso)
