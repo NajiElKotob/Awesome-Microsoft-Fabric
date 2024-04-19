@@ -167,6 +167,7 @@
   - [Learn Together: How to pass Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric 📺 ~1:45](https://www.youtube.com/watch?v=_R6XLa5pC8g&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=25)
 * [Introducing a new resource for all role-based Microsoft Certification exams](https://aka.ms/Uselearn) - aka.ms/Uselearn
 * [Exam Readiness Zone](https://aka.ms/examreadinesszone) - aka.ms/examreadinesszone
+* [DP-600 Exam Tutoring | Questions and Answers for the Fabric Analytics Engineer Certification 📺 ~18min](https://www.youtube.com/watch?v=-wkrngZRGeE) - Pragmatic Works
 
 ### Applied Skills
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
