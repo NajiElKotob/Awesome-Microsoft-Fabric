@@ -36,8 +36,9 @@
 * [Microsoft Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs)
 
 ### YouTube 📺
-* Microsoft Fabric
-  - [Fabric](https://www.youtube.com/@MicrosoftFabric)
+* Microsoft
+  - [Microsoft Fabric](https://www.youtube.com/@MicrosoftFabric)
+    - [Microsoft Fabric Learn Together](https://www.youtube.com/playlist?list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv) 
   - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
