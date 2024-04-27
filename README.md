@@ -10,10 +10,12 @@
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap) - aka.ms/FabricRoadmap
 * [Become a Fabric Analytics Engineer Start your journey](https://aka.ms/fabriccareerhub) - aka.ms/FabricCareerHub
 * [Featured Partners](https://aka.ms/FabricFeaturedPartners) - aka.ms/FabricFeaturedPartners
+
+### Licenses
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
-  - [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
-  - [How to calculate Microsoft Fabric costs](https://www.fourmoo.com/2024/02/09/how-to-calculate-microsoft-fabric-costs/) - fourmoo.com
-  - [Accessing Microsoft Fabric for developers, startups and enterprises!](https://aka.ms/upgrade-to-fabric) ⭐ - aka.ms/upgrade-to-fabric
+* [Microsoft Fabric trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial)
+* [How to calculate Microsoft Fabric costs](https://www.fourmoo.com/2024/02/09/how-to-calculate-microsoft-fabric-costs/) - fourmoo.com
+* [Accessing Microsoft Fabric for developers, startups and enterprises!](https://aka.ms/upgrade-to-fabric) ⭐ - aka.ms/upgrade-to-fabric
 
 ### Learn
 * [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/) (11 modules)
