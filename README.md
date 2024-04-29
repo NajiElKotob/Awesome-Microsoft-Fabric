@@ -52,7 +52,8 @@
 * Microsoft
   - [Microsoft Fabric](https://www.youtube.com/@MicrosoftFabric)
     - [Microsoft Fabric Learn Together](https://www.youtube.com/playlist?list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv)
-      - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric](https://www.youtube.com/watch?v=LhZRNm5Vjjc&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=1) 
+      - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric](https://www.youtube.com/watch?v=LhZRNm5Vjjc&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=1)
+      - [Learn Together: Use Apache Spark in Microsoft Fabric](https://www.youtube.com/watch?v=qyY9wdo5Fhw&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=3)
   - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
