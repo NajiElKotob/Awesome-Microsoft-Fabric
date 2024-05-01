@@ -55,6 +55,7 @@
       - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric](https://www.youtube.com/watch?v=LhZRNm5Vjjc&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=1)
       - [Learn Together: Use Apache Spark in Microsoft Fabric](https://www.youtube.com/watch?v=qyY9wdo5Fhw&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=3)
       - [Learn Together: Work with Delta Lake tables in Microsoft Fabric](https://www.youtube.com/watch?v=Q4f7mPdZyLQ&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=7)
+      - [Learn Together: Use Data Factory pipelines in Microsoft Fabric](https://www.youtube.com/watch?v=kzqZGr-S0z8&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=8)
   - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
