@@ -57,6 +57,7 @@
       - [Learn Together: Work with Delta Lake tables in Microsoft Fabric](https://www.youtube.com/watch?v=Q4f7mPdZyLQ&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=7)
       - [Learn Together: Use Data Factory pipelines in Microsoft Fabric](https://www.youtube.com/watch?v=kzqZGr-S0z8&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=8)
       - [Learn Together: Ingest Data with Dataflows Gen2 in Microsoft Fabric](https://www.youtube.com/watch?v=A1baoKj-gqU&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=10)
+      - [Learn Together: Get started with data warehouses in Microsoft Fabric](https://www.youtube.com/watch?v=KjUE8NGjTFY&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=12)
   - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
