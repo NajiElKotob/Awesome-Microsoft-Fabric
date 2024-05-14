@@ -52,7 +52,7 @@
 * Microsoft
   - [Microsoft Fabric](https://www.youtube.com/@MicrosoftFabric)
     - [Microsoft Fabric Learn Together](https://www.youtube.com/playlist?list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv) ⭐
-      - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric](https://www.youtube.com/watch?v=LhZRNm5Vjjc&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=1) [Learn Module](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/)
+      - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric](https://www.youtube.com/watch?v=LhZRNm5Vjjc&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=1) - [(Learn Module)](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/)
       - [Learn Together: Use Apache Spark in Microsoft Fabric](https://www.youtube.com/watch?v=qyY9wdo5Fhw&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=3)
       - [Learn Together: Work with Delta Lake tables in Microsoft Fabric](https://www.youtube.com/watch?v=Q4f7mPdZyLQ&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=7)
       - [Learn Together: Use Data Factory pipelines in Microsoft Fabric](https://www.youtube.com/watch?v=kzqZGr-S0z8&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=8)
