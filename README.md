@@ -152,6 +152,9 @@
 * A [data lakehouse](https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake) is a modern data management architecture that combines the cost-efficiency, scale, and flexibility features of a data lake with the data and transaction management capabilities of a data warehouse.
 * [Announcements from the Microsoft Fabric Community Conference](https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/03/26/announcements-from-the-microsoft-fabric-community-conference/)
 
+### Security
+* [Microsoft Fabric security white paper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page)
+
 ### Videos
 * [What Is Microsoft OneLake? 📺 ~22min](https://www.youtube.com/watch?v=zGQ8bPfbV_E) - Tamarick Hill's Azure Data Training
 
