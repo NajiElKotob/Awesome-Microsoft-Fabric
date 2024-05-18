@@ -153,7 +153,7 @@
 * [Announcements from the Microsoft Fabric Community Conference](https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/03/26/announcements-from-the-microsoft-fabric-community-conference/)
 
 ### Security
-* [Microsoft Fabric security white paper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page)
+* [Microsoft Fabric security white paper](https://learn.microsoft.com/en-us/fabric/security/white-paper-landing-page) - aka.ms/fabricsecuritywhitepaper
 
 ### Videos
 * [What Is Microsoft OneLake? 📺 ~22min](https://www.youtube.com/watch?v=zGQ8bPfbV_E) - Tamarick Hill's Azure Data Training
