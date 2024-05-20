@@ -187,7 +187,8 @@
 * [Introducing a new resource for all role-based Microsoft Certification exams](https://aka.ms/Uselearn) - aka.ms/Uselearn
 * [Exam Readiness Zone](https://aka.ms/examreadinesszone) - aka.ms/examreadinesszone
 * [DP-600 Exam Tutoring | Questions and Answers for the Fabric Analytics Engineer Certification 📺 ~18min](https://www.youtube.com/watch?v=-wkrngZRGeE) - Pragmatic Works
-* [DP-600 Exam Preparation](https://www.youtube.com/playlist?list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS) - Learn Microsoft Fabric with Will 
+* [DP-600 Exam Preparation](https://www.youtube.com/playlist?list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS) 🌟 - Learn Microsoft Fabric with Will 
+* [Kevin Chant](https://www.kevinrchant.com/?s=dp-600) 🌟 - A blog about Microsoft Data Platform offerings
 
 ### Applied Skills
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
