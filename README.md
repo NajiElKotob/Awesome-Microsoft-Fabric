@@ -191,8 +191,10 @@
 * [Kevin Chant](https://www.kevinrchant.com/?s=dp-600) 🌟 - A blog about Microsoft Data Platform offerings
 
 ### Applied Skills
+#### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
 * [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)
+* [Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/)
   
 -----
 ## Icons and Images
