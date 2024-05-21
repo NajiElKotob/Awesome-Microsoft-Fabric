@@ -195,6 +195,8 @@
 * [Implement a lakehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-lakehouse-microsoft-fabric/)
 * [Implement a data warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/work-with-data-warehouses-using-microsoft-fabric/)
 * [Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/)
+#### Applied Skills Resources
+* [Applied Skills poster](https://aka.ms/AppliedSkillsPoster) - aka.ms/AppliedSkillsPoster
   
 -----
 ## Icons and Images
