@@ -177,6 +177,12 @@
 ### Data Wrangler
 * [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
 
+
+-----
+## Capacity Operations
+### Monitoring
+* [Track overages and rejected operations](https://learn.microsoft.com/en-us/fabric/enterprise/throttling#track-overages-and-rejected-operations)
+
 -----
 
 ## Apps
