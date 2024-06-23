@@ -139,6 +139,7 @@
 
 ### Data Pipeline
 * [Microsoft Fabric: Data pipelines](https://www.bakertilly.com/insights/microsoft-fabric-data-pipelines) - bakertilly.com
+* [What is Data Pipeline? | Why Is It So Popular?](https://www.youtube.com/watch?v=kGT4PcTEPP8) - ByteByteGo | General Knowledgde 
 
 -----
 ## Microsoft Purview
