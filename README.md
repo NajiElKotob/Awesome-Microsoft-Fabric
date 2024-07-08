@@ -174,6 +174,7 @@
 * [Use Python for Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview) - learn.microsoft.com
 * [Pyspark Tutorial: Getting Started with Pyspark](https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark) - datacamp.com
 * [Let's look at using some PySpark in your first Microsoft Fabric Notebook](https://www.youtube.com/watch?v=K2WdIdfpIic) - Guy in a Cube
+* [Spark Tutorial in Microsoft Fabric ~3.5 hours](https://www.youtube.com/watch?v=02lSlhwLU4c) - Learn Microsoft Fabric with Will
 
 ### Data Wrangler
 * [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
