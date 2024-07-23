@@ -10,6 +10,7 @@
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap) - aka.ms/FabricRoadmap
 * [Become a Fabric Analytics Engineer Start your journey](https://aka.ms/fabriccareerhub) - aka.ms/FabricCareerHub
 * [Featured Partners](https://aka.ms/FabricFeaturedPartners) - aka.ms/FabricFeaturedPartners
+* [Microsoft Fabric terminology](https://learn.microsoft.com/en-us/fabric/get-started/fabric-terminology)
 
 ### Licenses
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses)
