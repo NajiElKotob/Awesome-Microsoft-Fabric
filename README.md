@@ -145,6 +145,9 @@
 ### YouTube
 * [Data Factory (Official)](https://www.youtube.com/@MSDataFactory)
 
+### Tutorials
+* [Slowly changing dimension type 2](https://learn.microsoft.com/en-gb/fabric/data-factory/slowly-changing-dimension-type-two)
+
 ### Data Pipeline
 * [Microsoft Fabric: Data pipelines](https://www.bakertilly.com/insights/microsoft-fabric-data-pipelines) - bakertilly.com
 * [What is Data Pipeline? | Why Is It So Popular?](https://www.youtube.com/watch?v=kGT4PcTEPP8) - ByteByteGo | General Knowledgde 
