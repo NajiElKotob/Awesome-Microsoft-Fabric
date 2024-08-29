@@ -62,6 +62,8 @@
       - [Learn Together: Organize a Fabric lakehouse using medallion architecture design](https://www.youtube.com/watch?v=gqTWFBzgAlg&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=15) - [(Learn Module)](https://learn.microsoft.com/en-us/training/modules/describe-medallion-architecture/)
       - [Learn Together: Ingest data with Spark and Microsoft Fabric notebooks](https://www.youtube.com/watch?v=T5RgSVk0gMM&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=17)
   - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
+* Fabric Monthly Update
+  - [Fabric Monthly Update | August 2024](https://www.youtube.com/watch?v=36U44YK68G0) 
 * Guy in a Cube
   - [Microsoft Fabric Discussion ~ 1 hour](https://www.youtube.com/watch?v=tMx3rhl43b4)
   - [Understanding Microsoft Fabric Licensing and Cost (Public Preview)](https://youtu.be/6AAeV3bSMso)
