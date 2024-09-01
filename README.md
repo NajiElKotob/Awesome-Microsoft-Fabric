@@ -61,7 +61,7 @@
       - [Learn Together: Get started with data warehouses in Microsoft Fabric](https://www.youtube.com/watch?v=KjUE8NGjTFY&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=12) - [(Learn Module)](https://learn.microsoft.com/en-us/training/modules/get-started-data-warehouse/)
       - [Learn Together: Organize a Fabric lakehouse using medallion architecture design](https://www.youtube.com/watch?v=gqTWFBzgAlg&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=15) - [(Learn Module)](https://learn.microsoft.com/en-us/training/modules/describe-medallion-architecture/)
       - [Learn Together: Ingest data with Spark and Microsoft Fabric notebooks](https://www.youtube.com/watch?v=T5RgSVk0gMM&list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv&index=17)
-  - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse)
+  - [Azure Synapse Analytics](https://www.youtube.com/@AzureSynapse) - [(Learn Module)](https://learn.microsoft.com/en-us/training/modules/ingest-data-with-spark-fabric-notebooks/)
 * Fabric Monthly Update
   - [Fabric Monthly Update | August 2024](https://www.youtube.com/watch?v=36U44YK68G0) 
 * Guy in a Cube
