@@ -5,6 +5,7 @@
 `Microsoft Fabric is an end-to-end analytics platform that provides a single, integrated environment for data professionals and the business to collaborate on data projects.`
 ## Fabric
 ### Microsoft Fabric
+* [What is Microsoft Fabric?](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
 * [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/) - learn.microsoft.com
 * [Get started with Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main) - Microsoft Learning
 * [Fabric Roadmap](https://aka.ms/FabricRoadmap) - aka.ms/FabricRoadmap
