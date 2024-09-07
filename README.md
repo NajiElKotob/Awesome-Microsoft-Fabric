@@ -215,6 +215,7 @@
 * [DP-600 Exam Tutoring | Questions and Answers for the Fabric Analytics Engineer Certification 📺 ~18min](https://www.youtube.com/watch?v=-wkrngZRGeE) - Pragmatic Works
 * [DP-600 Exam Preparation](https://www.youtube.com/playlist?list=PLug2zSFKZmV05ZJcmHemXxyJjPVXeQ2qS) 🌟 - Learn Microsoft Fabric with Will 
 * [Kevin Chant](https://www.kevinrchant.com/?s=dp-600) 🌟 - A blog about Microsoft Data Platform offerings
+* [Fabric Fridays: Implementing Analytics Solutions with Microsoft Fabric 📺 ~1 hour](https://www.youtube.com/watch?v=6GFhCWZLIak) - KratosBI
 
 ### Applied Skills
 #### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
