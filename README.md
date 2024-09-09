@@ -120,6 +120,10 @@
 
 * [Introducing Synapse Data Engineering in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-engineering-in-microsoft-fabric/)
 
+### YouTube 
+* [Data Engineering in Microsoft Fabric | Roadmap Session ~1 hour](https://www.youtube.com/watch?v=HBYikGrZo-w) - Microsoft Fabric
+
+  
 -----
 ## Synapse Data Warehouse
 `Microsoft Fabric provides customers with a unified product that addresses every aspect of their data estate by offering a complete, SaaS-ified Data, Analytics and AI platform, which is lake centric and open. The foundation of Microsoft Fabric enables the novice user through to the seasoned professional to leverage Database, Analytics, Messaging, Data Integration and Business Intelligence workloads through a rich, easy to use, shared SaaS experience with Microsoft OneLake as the centerpiece.` [Learn more](https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehousing)
