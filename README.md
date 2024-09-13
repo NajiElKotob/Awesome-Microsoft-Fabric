@@ -118,7 +118,9 @@
 ## Synapse Data Engineering
 `Data engineering in Microsoft Fabric enables users to design, build, and maintain infrastructures and systems that enable their organizations to collect, store, process, and analyze large volumes of data.` [Learn more](https://learn.microsoft.com/en-us/fabric/data-engineering/data-engineering-overview)
 
-* [Introducing Synapse Data Engineering in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-engineering-in-microsoft-fabric/)
+### Docs
+* [Data Engineering documentation](https://learn.microsoft.com/en-us/fabric/data-engineering/)
+  - [Introducing Synapse Data Engineering in Microsoft Fabric](https://blog.fabric.microsoft.com/en-us/blog/introducing-synapse-data-engineering-in-microsoft-fabric/)
 
 ### YouTube 
 * [Data Engineering in Microsoft Fabric | Roadmap Session ~1 hour](https://www.youtube.com/watch?v=HBYikGrZo-w) - Microsoft Fabric
