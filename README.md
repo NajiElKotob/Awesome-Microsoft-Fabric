@@ -101,7 +101,10 @@
 
 ### Docs
 * [Data Activator documentation](https://learn.microsoft.com/en-us/fabric/data-activator/)
-  
+
+### Learn
+* [Get started with Data Activator in Microsoft Fabric](https://learn.microsoft.com/en-us/training/modules/get-started-data-activator-microsoft-fabric/)
+
 ### Videos 📺
 * [How to Use Data Activator - Live with Will Thompson! - Intermediate 📺 ~1 hour](https://www.youtube.com/watch?v=gGmf0oME2wE) - KratosBI
 * [Automate data-driven actions | Data Activator in Microsoft Fabric](https://www.youtube.com/watch?v=qrCmTCWuluk) - Microsoft Mechanics
