@@ -203,6 +203,10 @@
 ### Data Wrangler
 * [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
 
+## AI Skills
+
+### Articles
+* [Introducing AI Skills in Microsoft Fabric: Now in Public Preview](https://blog.fabric.microsoft.com/en-US/blog/introducing-ai-skills-in-microsoft-fabric-now-in-public-preview/)
 
 -----
 ## Capacity Operations
