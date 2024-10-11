@@ -168,6 +168,9 @@
 ## Microsoft Purview
 `Microsoft Purview hub is a centralized page in Fabric that helps Fabric administrators and users manage and govern their Fabric data estate. It contains reports that provide insights about sensitive data and item endorsement, and also serves as a gateway to more advanced capabilities in the Microsoft Purview governance and compliance portals such as Data Catalog, Information Protection, Data Loss Prevention, and Audit.` [Learn more](https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub?tabs=admin-view)
 
+### Learn
+* [Help secure your data in the age of AI](https://learn.microsoft.com/en-us/plans/7wzotwjkdpppx3)
+
 -----
 ## OneLake
 `OneLake is Fabric's lake-centric architecture that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric's OneLake architecture facilitates collaboration between data team members and saves time by eliminating the need to move and copy data between different systems and teams. OneCopy is a key component of OneLake that allows you to read data from a single copy, without moving or duplicating data.` [Learn more](https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview)
