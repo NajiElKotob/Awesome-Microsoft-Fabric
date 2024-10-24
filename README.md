@@ -244,6 +244,7 @@
 -----
 ## Icons and Images
 * [All Microsoft Fabric icons for diagramming](https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/) - debruyn.dev (Sam Debruyn)
+* [Microsoft Fabric icons (GitHub)](https://github.com/microsoft/fabric-samples/blob/main/docs-samples/Icons.zip) - Microsoft
 
 ## Terms and more
 * A **synapse** is a small gap at the end of a neuron that allows a signal to pass from one neuron to the next. Neurons are cells that transmit information between your brain and other parts of the central nervous system. Synapses are found where neurons connect with other neurons. [Learn more](https://www.verywellhealth.com/synapse-anatomy-2795867)
