@@ -240,7 +240,11 @@
 * [Implement a data science and machine learning solution with Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-a-data-science-and-machine-learning-solution-with-microsoft-fabric/)
 #### Applied Skills Resources
 * [Applied Skills poster](https://aka.ms/AppliedSkillsPoster) - aka.ms/AppliedSkillsPoster
-  
+
+-----
+## Microsoft Fabric Community Samples
+* [Using Fabric and AI to combat Food Waste](https://github.com/AllgeierSchweiz/aihackers) - Allgeier Schweiz
+
 -----
 ## Icons and Images
 * [All Microsoft Fabric icons for diagramming](https://debruyn.dev/2023/all-microsoft-fabric-icons-for-diagramming/) - debruyn.dev (Sam Debruyn)
