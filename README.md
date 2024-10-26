@@ -245,8 +245,9 @@
 * [Applied Skills poster](https://aka.ms/AppliedSkillsPoster) - aka.ms/AppliedSkillsPoster
 
 -----
-## Microsoft Fabric Community Samples
+## Microsoft Fabric Community Samples [⤴](https://github.com/microsoft/fabric-samples/tree/main/community-samples)
 * [Using Fabric and AI to combat Food Waste](https://github.com/AllgeierSchweiz/aihackers) - Allgeier Schweiz
+* [Automating synthetic data creation & reporting using Microsoft Fabric](https://github.com/corneliascode/Automating-synthetic-data-creation-reporting-using-Microsoft-Fabric-)
 
 -----
 ## Icons and Images
