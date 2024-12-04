@@ -217,6 +217,7 @@
 ## Capacity Operations
 ### Monitoring
 * [Track overages and rejected operations](https://learn.microsoft.com/en-us/fabric/enterprise/throttling#track-overages-and-rejected-operations)
+* [Evaluate and optimize your Microsoft Fabric capacity](https://learn.microsoft.com/en-us/fabric/enterprise/optimize-capacity)
 
 ## Tools and Lib
 * [rt-gateway-log](https://github.com/ecotte/rt-gateway-log) - Gateway Monitoring Real-time
