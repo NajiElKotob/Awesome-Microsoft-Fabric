@@ -221,6 +221,7 @@
 
 ## Tools and Lib
 * [rt-gateway-log](https://github.com/ecotte/rt-gateway-log) - Gateway Monitoring Real-time
+* [FabricStudio](https://github.com/gbrueckl/FabricStudio) [📺](https://www.youtube.com/watch?v=QLW71u5koS0)
 
 -----
 
