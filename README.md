@@ -242,6 +242,7 @@
 * [Fabric Fridays: Implementing Analytics Solutions with Microsoft Fabric 📺 ~1 hour](https://www.youtube.com/watch?v=6GFhCWZLIak) - KratosBI
 ### DP-700
  * [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
+   - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
 
 ### Applied Skills
 #### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
