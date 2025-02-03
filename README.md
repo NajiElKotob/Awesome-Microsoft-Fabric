@@ -241,8 +241,9 @@
 * [Kevin Chant](https://www.kevinrchant.com/?s=dp-600) 🌟 - A blog about Microsoft Data Platform offerings
 * [Fabric Fridays: Implementing Analytics Solutions with Microsoft Fabric 📺 ~1 hour](https://www.youtube.com/watch?v=6GFhCWZLIak) - KratosBI
 ### DP-700
- * [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
-   - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
+* [Study Guide for Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric](http://aka.ms/dp700studyguide) - aka.ms/dp700StudyGuide
+* [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
+  - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
 
 ### Applied Skills
 #### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
