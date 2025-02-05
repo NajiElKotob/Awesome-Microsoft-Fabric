@@ -245,6 +245,7 @@
 * [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
   - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
   - From Synapse to Fabric: Ingest and Transform Data (DP-700) [Version 1](https://www.youtube.com/watch?v=wk37Wb0kQrQ); [Version 2](https://www.youtube.com/watch?v=alf54L6LyjI)
+  - DP-700: Get started with data engineering on Microsoft Fabric [Version 1](https://www.youtube.com/watch?v=MdTPLfUI0qk); [Version 2](https://www.youtube.com/watch?v=etPUIZGW0Ns)
 
 ### Applied Skills
 #### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
