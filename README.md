@@ -242,6 +242,7 @@
 * [Fabric Fridays: Implementing Analytics Solutions with Microsoft Fabric 📺 ~1 hour](https://www.youtube.com/watch?v=6GFhCWZLIak) - KratosBI
 ### DP-700
 * [Study Guide for Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric](http://aka.ms/dp700studyguide) - aka.ms/dp700StudyGuide
+* [DP-700 Microsoft Certified: Fabric Data Engineer Associate | Free Course](https://www.youtube.com/playlist?list=PLlqsZd11LpUES4AJG953GJWnqUksQf8x2) - Aleksi Partanen Tech
 * [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
   - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
   - From Synapse to Fabric: Ingest and Transform Data (DP-700) [Version 1](https://www.youtube.com/watch?v=wk37Wb0kQrQ); [Version 2](https://www.youtube.com/watch?v=alf54L6LyjI)
