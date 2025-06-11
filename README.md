@@ -248,6 +248,7 @@
   - From Synapse to Fabric: Ingest and Transform Data (DP-700) [Version 1](https://www.youtube.com/watch?v=wk37Wb0kQrQ); [Version 2](https://www.youtube.com/watch?v=alf54L6LyjI)
   - DP-700: Get started with data engineering on Microsoft Fabric [Version 1](https://www.youtube.com/watch?v=MdTPLfUI0qk); [Version 2](https://www.youtube.com/watch?v=etPUIZGW0Ns)
   - DP-700: Ingest and manage data in Fabric with data factory and notebooks [Version 1](https://www.youtube.com/watch?v=_vMvyOl0Qmg); [Version 2](https://www.youtube.com/watch?v=9u5HYQ7bVyA)
+* [DP-700 Microsoft Certified: Fabric Data 📺](https://www.youtube.com/playlist?list=PLlqsZd11LpUES4AJG953GJWnqUksQf8x2) - Aleksi Partanen Tech
 
 ### Applied Skills
 #### [Applied Skills (Fabric)](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills&terms=fabric)
