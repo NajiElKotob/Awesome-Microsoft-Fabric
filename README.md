@@ -212,6 +212,7 @@
 
 ## Kusto 
 * [Kusto documentation](https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric)
+* [SQL to Kusto Query Language cheat sheet](https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=microsoft-fabric)
 
 ## AI Skills
 
