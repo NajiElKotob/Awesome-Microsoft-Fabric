@@ -210,6 +210,9 @@
 ### Data Wrangler
 * [Fabric Data Wrangler A Tool for Data Scientist 📺 12min](https://www.youtube.com/watch?v=Bxf4VkqXuRc) - RADACAD
 
+## Kusto 
+* [Kusto documentation](https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric)
+
 ## AI Skills
 
 ### Articles
