@@ -252,11 +252,7 @@
 ### DP-700
 * [Study Guide for Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric](http://aka.ms/dp700studyguide) - aka.ms/dp700StudyGuide
 * [DP-700 Microsoft Certified: Fabric Data Engineer Associate | Free Course](https://www.youtube.com/playlist?list=PLlqsZd11LpUES4AJG953GJWnqUksQf8x2) - Aleksi Partanen Tech
-* [Microsoft Reactor | DP-700](https://www.youtube.com/@MicrosoftReactor/search?query=DP-700) - 30+ 📺 at Microsoft Reactor
-  - [From Synapse to Fabric: Implement and Manage Analytics Solutions (DP-700)](https://www.youtube.com/watch?v=SanbHcbokg0)
-  - From Synapse to Fabric: Ingest and Transform Data (DP-700) [Version 1](https://www.youtube.com/watch?v=wk37Wb0kQrQ); [Version 2](https://www.youtube.com/watch?v=alf54L6LyjI)
-  - DP-700: Get started with data engineering on Microsoft Fabric [Version 1](https://www.youtube.com/watch?v=MdTPLfUI0qk); [Version 2](https://www.youtube.com/watch?v=etPUIZGW0Ns)
-  - DP-700: Ingest and manage data in Fabric with data factory and notebooks [Version 1](https://www.youtube.com/watch?v=_vMvyOl0Qmg); [Version 2](https://www.youtube.com/watch?v=9u5HYQ7bVyA)
+* [Get Certified: DP700 - Become a Fabric Data Engineer](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zn4lVv0VTa61VpWDoPuGlo) - Microsoft Reactor
 * [DP-700 Exam Preparation](https://www.youtube.com/playlist?list=PLug2zSFKZmV2Ue5udYFeKnyf1Jj0-y5Gy) 🌟 - Learn Microsoft Fabric with Will 
 * [DP-700 Microsoft Certified: Fabric Data 📺](https://www.youtube.com/playlist?list=PLlqsZd11LpUES4AJG953GJWnqUksQf8x2) 🌟 - Aleksi Partanen Tech
 * [Fabric DP-700 Exam Prep 📺](https://www.youtube.com/playlist?list=PLiOFBpelbuTpkHXmpHBq4dkGlaVniHbVW) - PorcuBI - Valerie Junk
