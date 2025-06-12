@@ -49,6 +49,8 @@
 * [SQL and the Microsoft Fabric (Presentation)](https://aka.ms/sqlfabricdemo) - OneDrive
 * Fabric is the first truly unified analytics solution based on one copy of data. Using open-standard formats and end-to-end service offerings, Fabric enables customers to avoid vendor lock-in, and prevent data-fragmentation complexity. Fabric is transforming how analytics projects are delivered. Using open-standard formats and end-to-end service offerings, Fabric enables customers to avoid vendor lock-in, and prevent data-fragmentation complexity. Fabric is transforming how analytics projects are delivered. [Learn more](https://powerbi.microsoft.com/en-us/blog/datasets-renamed-to-semantic-models/) - Christian Wade
 
+### Blogs
+* [K Chant](https://www.kevinrchant.com/) - kevinrchant.com | A blog about Microsoft Data Platform offerings
 
 -----
 
