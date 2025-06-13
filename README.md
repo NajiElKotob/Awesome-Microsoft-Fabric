@@ -217,8 +217,11 @@
 ### Tutorials
 * [KQL Basics | Microsoft 365 Defender 📺 ~7min](https://www.youtube.com/watch?v=BNJJdPgXy6w)
 
-## AI Skills
 
+## Fabric data agent
+* [Fabric data agent concepts](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)
+
+## AI Skills
 ### Articles
 * [Introducing AI Skills in Microsoft Fabric: Now in Public Preview](https://blog.fabric.microsoft.com/en-US/blog/introducing-ai-skills-in-microsoft-fabric-now-in-public-preview/)
 
