@@ -84,6 +84,8 @@
   - [Create, Evaluate, and Score a Churn Prediction Model 📺 ~1 hour](https://www.youtube.com/watch?v=vPffxSR03qw)
 * Microsoft Power BI
   - [Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric 📺 ~1.5 hours](https://www.youtube.com/watch?v=LhZRNm5Vjjc)
+* Microsoft Reactor
+  - [So you want to be a Data Engineer](https://www.youtube.com/watch?v=CVfE6tNscds)
 * Aleksi Partanen
   - [Microsoft Fabric & OneLake Explained in 2025](https://www.youtube.com/watch?v=RiRpt0o7rwA)
 * RADACAD
