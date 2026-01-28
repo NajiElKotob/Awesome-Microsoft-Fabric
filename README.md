@@ -182,6 +182,8 @@
 -----
 ## OneLake
 `OneLake is Fabric's lake-centric architecture that provides a single, integrated environment for data professionals and the business to collaborate on data projects. Fabric's OneLake architecture facilitates collaboration between data team members and saves time by eliminating the need to move and copy data between different systems and teams. OneCopy is a key component of OneLake that allows you to read data from a single copy, without moving or duplicating data.` [Learn more](https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview)
+* [OneLake Explained in less than 10 Minutes (Microsoft Fabric Fundamentals) 📺](https://www.youtube.com/watch?v=iyWOy8RliiM) - Guy in a Cube
+
 
 
 
