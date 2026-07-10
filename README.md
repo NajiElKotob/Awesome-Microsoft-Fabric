@@ -138,8 +138,9 @@
 
 -----
 
-## Fabric Apps
+## Fabric Apps (Rayfin)
 * [What is Fabric Apps](https://learn.microsoft.com/en-us/fabric/apps/overview)
+* [Building My First Fabric App with the Rayfin CLI to Analyze a Semantic Model](https://powerbimvp.com/posts/fabric-app-rayfin-semantic-model-analyzer.html) - powerbimvp.com
   
 -----
 ## Synapse Data Warehouse
