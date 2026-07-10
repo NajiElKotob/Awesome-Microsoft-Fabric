@@ -136,6 +136,10 @@
 ### YouTube 
 * [Data Engineering in Microsoft Fabric | Roadmap Session ~1 hour](https://www.youtube.com/watch?v=HBYikGrZo-w) - Microsoft Fabric
 
+-----
+
+## Fabric Apps
+* [What is Fabric Apps](https://learn.microsoft.com/en-us/fabric/apps/overview)
   
 -----
 ## Synapse Data Warehouse
