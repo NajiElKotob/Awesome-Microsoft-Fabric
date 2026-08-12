@@ -39,6 +39,9 @@
 * [Microsoft Fabric Labs](https://github.com/MicrosoftLearning/mslearn-fabric/tree/main/Instructions/Labs)
 * [PL-300 - Microsoft Power BI Data Analyst](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/)
 
+### MCP/Skills
+* [Microsoft Fabric Skills](https://github.com/microsoft/skills-for-fabric)
+
 ### Tutorials
 * [Data warehouse tutorial introduction](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction) ⭐ - learn.microsoft.com
 * [End-to-end tutorials in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/end-to-end-tutorials) ⭐ - learn.microsoft.com
