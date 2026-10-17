@@ -55,6 +55,9 @@
 ### Blogs
 * [K Chant](https://www.kevinrchant.com/) - kevinrchant.com | A blog about Microsoft Data Platform offerings
 
+### MCP
+* [Register the hosted Power BI MCP servers with external MCP clients (preview)](https://learn.microsoft.com/en-us/power-bi/developer/mcp/remote-mcp-server-external-clients)
+
 -----
 
 ### YouTube 📺
